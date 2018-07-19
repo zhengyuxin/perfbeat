@@ -1,0 +1,9 @@
+- key: perfbeat
+  title: perfbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

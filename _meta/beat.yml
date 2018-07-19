@@ -1,0 +1,7 @@
+################### Perfbeat Configuration Example #########################
+
+############################# Perfbeat ######################################
+
+perfbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
